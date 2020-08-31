@@ -1,0 +1,6 @@
+D:\VI ASUP\VSprojects\umop5.3zMaximumIndex\bin\Debug\umop5.3zMaximumIndex.exe.config
+D:\VI ASUP\VSprojects\umop5.3zMaximumIndex\bin\Debug\umop5.3zMaximumIndex.exe
+D:\VI ASUP\VSprojects\umop5.3zMaximumIndex\bin\Debug\umop5.3zMaximumIndex.pdb
+D:\VI ASUP\VSprojects\umop5.3zMaximumIndex\obj\Debug\umop5.3zMaximumIndex.csprojAssemblyReference.cache
+D:\VI ASUP\VSprojects\umop5.3zMaximumIndex\obj\Debug\umop5.3zMaximumIndex.exe
+D:\VI ASUP\VSprojects\umop5.3zMaximumIndex\obj\Debug\umop5.3zMaximumIndex.pdb
