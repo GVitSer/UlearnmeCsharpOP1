@@ -1,0 +1,6 @@
+D:\VI ASUP\VSprojects\umop12.2zCreatingClasses\bin\Debug\umop12.2zCreatingClasses.exe.config
+D:\VI ASUP\VSprojects\umop12.2zCreatingClasses\bin\Debug\umop12.2zCreatingClasses.exe
+D:\VI ASUP\VSprojects\umop12.2zCreatingClasses\bin\Debug\umop12.2zCreatingClasses.pdb
+D:\VI ASUP\VSprojects\umop12.2zCreatingClasses\obj\Debug\umop12.2zCreatingClasses.csprojAssemblyReference.cache
+D:\VI ASUP\VSprojects\umop12.2zCreatingClasses\obj\Debug\umop12.2zCreatingClasses.exe
+D:\VI ASUP\VSprojects\umop12.2zCreatingClasses\obj\Debug\umop12.2zCreatingClasses.pdb
