@@ -1,0 +1,6 @@
+D:\VI ASUP\VSprojects\umop5.3zAbbreviatedSyntax\obj\Debug\umop5.3zAbbreviatedSyntax.csprojAssemblyReference.cache
+D:\VI ASUP\VSprojects\umop5.3zAbbreviatedSyntax\bin\Debug\umop5.3zAbbreviatedSyntax.exe.config
+D:\VI ASUP\VSprojects\umop5.3zAbbreviatedSyntax\bin\Debug\umop5.3zAbbreviatedSyntax.exe
+D:\VI ASUP\VSprojects\umop5.3zAbbreviatedSyntax\bin\Debug\umop5.3zAbbreviatedSyntax.pdb
+D:\VI ASUP\VSprojects\umop5.3zAbbreviatedSyntax\obj\Debug\umop5.3zAbbreviatedSyntax.exe
+D:\VI ASUP\VSprojects\umop5.3zAbbreviatedSyntax\obj\Debug\umop5.3zAbbreviatedSyntax.pdb
