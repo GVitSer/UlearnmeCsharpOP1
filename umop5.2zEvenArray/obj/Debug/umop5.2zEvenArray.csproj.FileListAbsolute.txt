@@ -1,0 +1,6 @@
+D:\VI ASUP\VSprojects\umop5.2zEvenArray\bin\Debug\umop5.2zEvenArray.exe.config
+D:\VI ASUP\VSprojects\umop5.2zEvenArray\bin\Debug\umop5.2zEvenArray.exe
+D:\VI ASUP\VSprojects\umop5.2zEvenArray\bin\Debug\umop5.2zEvenArray.pdb
+D:\VI ASUP\VSprojects\umop5.2zEvenArray\obj\Debug\umop5.2zEvenArray.csprojAssemblyReference.cache
+D:\VI ASUP\VSprojects\umop5.2zEvenArray\obj\Debug\umop5.2zEvenArray.exe
+D:\VI ASUP\VSprojects\umop5.2zEvenArray\obj\Debug\umop5.2zEvenArray.pdb
