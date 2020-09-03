@@ -1,0 +1,6 @@
+D:\VI ASUP\VSprojects\umop12.10zCreatingExtensionMethods\bin\Debug\umop12.10zCreatingExtensionMethods.exe.config
+D:\VI ASUP\VSprojects\umop12.10zCreatingExtensionMethods\bin\Debug\umop12.10zCreatingExtensionMethods.exe
+D:\VI ASUP\VSprojects\umop12.10zCreatingExtensionMethods\bin\Debug\umop12.10zCreatingExtensionMethods.pdb
+D:\VI ASUP\VSprojects\umop12.10zCreatingExtensionMethods\obj\Debug\umop12.10zCreatingExtensionMethods.csprojAssemblyReference.cache
+D:\VI ASUP\VSprojects\umop12.10zCreatingExtensionMethods\obj\Debug\umop12.10zCreatingExtensionMethods.exe
+D:\VI ASUP\VSprojects\umop12.10zCreatingExtensionMethods\obj\Debug\umop12.10zCreatingExtensionMethods.pdb
