@@ -1,0 +1,6 @@
+D:\VI ASUP\VSprojects\umop5.5zFindingAnArrayInAnArray\bin\Debug\umop5.5zFindingAnArrayInAnArray.exe.config
+D:\VI ASUP\VSprojects\umop5.5zFindingAnArrayInAnArray\bin\Debug\umop5.5zFindingAnArrayInAnArray.exe
+D:\VI ASUP\VSprojects\umop5.5zFindingAnArrayInAnArray\bin\Debug\umop5.5zFindingAnArrayInAnArray.pdb
+D:\VI ASUP\VSprojects\umop5.5zFindingAnArrayInAnArray\obj\Debug\umop5.5zFindingAnArrayInAnArray.csprojAssemblyReference.cache
+D:\VI ASUP\VSprojects\umop5.5zFindingAnArrayInAnArray\obj\Debug\umop5.5zFindingAnArrayInAnArray.exe
+D:\VI ASUP\VSprojects\umop5.5zFindingAnArrayInAnArray\obj\Debug\umop5.5zFindingAnArrayInAnArray.pdb
