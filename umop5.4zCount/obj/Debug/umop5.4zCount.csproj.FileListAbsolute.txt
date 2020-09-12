@@ -4,3 +4,10 @@ D:\VI ASUP\VSprojects\umop5.4zCount\bin\Debug\umop5.4zCount.pdb
 D:\VI ASUP\VSprojects\umop5.4zCount\obj\Debug\umop5.4zCount.csprojAssemblyReference.cache
 D:\VI ASUP\VSprojects\umop5.4zCount\obj\Debug\umop5.4zCount.exe
 D:\VI ASUP\VSprojects\umop5.4zCount\obj\Debug\umop5.4zCount.pdb
+H:\GitHub\UleanmeCsharpOP1\umop5.4zCount\bin\Debug\umop5.4zCount.exe.config
+H:\GitHub\UleanmeCsharpOP1\umop5.4zCount\bin\Debug\umop5.4zCount.exe
+H:\GitHub\UleanmeCsharpOP1\umop5.4zCount\bin\Debug\umop5.4zCount.pdb
+H:\GitHub\UleanmeCsharpOP1\umop5.4zCount\obj\Debug\umop5.4zCount.csprojAssemblyReference.cache
+H:\GitHub\UleanmeCsharpOP1\umop5.4zCount\obj\Debug\umop5.4zCount.csproj.CoreCompileInputs.cache
+H:\GitHub\UleanmeCsharpOP1\umop5.4zCount\obj\Debug\umop5.4zCount.exe
+H:\GitHub\UleanmeCsharpOP1\umop5.4zCount\obj\Debug\umop5.4zCount.pdb
