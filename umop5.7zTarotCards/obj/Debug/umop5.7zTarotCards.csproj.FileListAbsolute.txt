@@ -1,0 +1,7 @@
+H:\GVS Projects\UlearnmeCsharpOP1\umop5.7zTarotCards\bin\Debug\umop5.7zTarotCards.exe.config
+H:\GVS Projects\UlearnmeCsharpOP1\umop5.7zTarotCards\bin\Debug\umop5.7zTarotCards.exe
+H:\GVS Projects\UlearnmeCsharpOP1\umop5.7zTarotCards\bin\Debug\umop5.7zTarotCards.pdb
+H:\GVS Projects\UlearnmeCsharpOP1\umop5.7zTarotCards\obj\Debug\umop5.7zTarotCards.csprojAssemblyReference.cache
+H:\GVS Projects\UlearnmeCsharpOP1\umop5.7zTarotCards\obj\Debug\umop5.7zTarotCards.csproj.CoreCompileInputs.cache
+H:\GVS Projects\UlearnmeCsharpOP1\umop5.7zTarotCards\obj\Debug\umop5.7zTarotCards.exe
+H:\GVS Projects\UlearnmeCsharpOP1\umop5.7zTarotCards\obj\Debug\umop5.7zTarotCards.pdb
