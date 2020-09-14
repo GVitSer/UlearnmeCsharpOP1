@@ -1,0 +1,6 @@
+D:\VI ASUP\VSprojects\umop4.8zChessBoard\bin\Debug\umop4.8zChessBoard.exe.config
+D:\VI ASUP\VSprojects\umop4.8zChessBoard\bin\Debug\umop4.8zChessBoard.exe
+D:\VI ASUP\VSprojects\umop4.8zChessBoard\bin\Debug\umop4.8zChessBoard.pdb
+D:\VI ASUP\VSprojects\umop4.8zChessBoard\obj\Debug\umop4.8zChessBoard.csprojAssemblyReference.cache
+D:\VI ASUP\VSprojects\umop4.8zChessBoard\obj\Debug\umop4.8zChessBoard.exe
+D:\VI ASUP\VSprojects\umop4.8zChessBoard\obj\Debug\umop4.8zChessBoard.pdb
