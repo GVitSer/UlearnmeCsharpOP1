@@ -1,0 +1,12 @@
+D:\VI ASUP\VSprojects\umop4.6zFrame\bin\Debug\umop4.6zFrame.exe.config
+D:\VI ASUP\VSprojects\umop4.6zFrame\bin\Debug\umop4.6zFrame.exe
+D:\VI ASUP\VSprojects\umop4.6zFrame\bin\Debug\umop4.6zFrame.pdb
+D:\VI ASUP\VSprojects\umop4.6zFrame\obj\Debug\umop4.6zFrame.csprojAssemblyReference.cache
+D:\VI ASUP\VSprojects\umop4.6zFrame\obj\Debug\umop4.6zFrame.exe
+D:\VI ASUP\VSprojects\umop4.6zFrame\obj\Debug\umop4.6zFrame.pdb
+D:\VI ASUP\GitHub\umop4.6zFrame\bin\Debug\umop4.6zFrame.exe.config
+D:\VI ASUP\GitHub\umop4.6zFrame\bin\Debug\umop4.6zFrame.exe
+D:\VI ASUP\GitHub\umop4.6zFrame\bin\Debug\umop4.6zFrame.pdb
+D:\VI ASUP\GitHub\umop4.6zFrame\obj\Debug\umop4.6zFrame.csprojAssemblyReference.cache
+D:\VI ASUP\GitHub\umop4.6zFrame\obj\Debug\umop4.6zFrame.exe
+D:\VI ASUP\GitHub\umop4.6zFrame\obj\Debug\umop4.6zFrame.pdb
