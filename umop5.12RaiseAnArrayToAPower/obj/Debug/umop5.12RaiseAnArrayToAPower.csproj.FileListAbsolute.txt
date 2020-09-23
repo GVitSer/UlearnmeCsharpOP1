@@ -1,0 +1,6 @@
+D:\VI ASUP\VSprojects\umop5.12RaiseAnArrayToAPower\bin\Debug\umop5.12RaiseAnArrayToAPower.exe.config
+D:\VI ASUP\VSprojects\umop5.12RaiseAnArrayToAPower\bin\Debug\umop5.12RaiseAnArrayToAPower.exe
+D:\VI ASUP\VSprojects\umop5.12RaiseAnArrayToAPower\bin\Debug\umop5.12RaiseAnArrayToAPower.pdb
+D:\VI ASUP\VSprojects\umop5.12RaiseAnArrayToAPower\obj\Debug\umop5.12RaiseAnArrayToAPower.csprojAssemblyReference.cache
+D:\VI ASUP\VSprojects\umop5.12RaiseAnArrayToAPower\obj\Debug\umop5.12RaiseAnArrayToAPower.exe
+D:\VI ASUP\VSprojects\umop5.12RaiseAnArrayToAPower\obj\Debug\umop5.12RaiseAnArrayToAPower.pdb

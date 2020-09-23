@@ -1,0 +1,6 @@
+D:\VI ASUP\VSprojects\umop5.11NullOrNotNull\bin\Debug\umop5.11NullOrNotNull.exe.config
+D:\VI ASUP\VSprojects\umop5.11NullOrNotNull\bin\Debug\umop5.11NullOrNotNull.exe
+D:\VI ASUP\VSprojects\umop5.11NullOrNotNull\bin\Debug\umop5.11NullOrNotNull.pdb
+D:\VI ASUP\VSprojects\umop5.11NullOrNotNull\obj\Debug\umop5.11NullOrNotNull.csprojAssemblyReference.cache
+D:\VI ASUP\VSprojects\umop5.11NullOrNotNull\obj\Debug\umop5.11NullOrNotNull.exe
+D:\VI ASUP\VSprojects\umop5.11NullOrNotNull\obj\Debug\umop5.11NullOrNotNull.pdb
