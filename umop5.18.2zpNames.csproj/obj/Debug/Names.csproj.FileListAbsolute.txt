@@ -1,0 +1,10 @@
+D:\VI ASUP\VSprojects\UlearnmeCsharpOP1\5.18.2 з п Names.csproj\bin\Debug\names.txt
+D:\VI ASUP\VSprojects\UlearnmeCsharpOP1\5.18.2 з п Names.csproj\bin\Debug\Names.exe.config
+D:\VI ASUP\VSprojects\UlearnmeCsharpOP1\5.18.2 з п Names.csproj\bin\Debug\Names.exe
+D:\VI ASUP\VSprojects\UlearnmeCsharpOP1\5.18.2 з п Names.csproj\bin\Debug\Names.pdb
+D:\VI ASUP\VSprojects\UlearnmeCsharpOP1\5.18.2 з п Names.csproj\bin\Debug\ZedGraph.dll
+D:\VI ASUP\VSprojects\UlearnmeCsharpOP1\5.18.2 з п Names.csproj\bin\Debug\ZedGraph.xml
+D:\VI ASUP\VSprojects\UlearnmeCsharpOP1\5.18.2 з п Names.csproj\obj\Debug\Names.csprojAssemblyReference.cache
+D:\VI ASUP\VSprojects\UlearnmeCsharpOP1\5.18.2 з п Names.csproj\obj\Debug\Names.csproj.CopyComplete
+D:\VI ASUP\VSprojects\UlearnmeCsharpOP1\5.18.2 з п Names.csproj\obj\Debug\Names.exe
+D:\VI ASUP\VSprojects\UlearnmeCsharpOP1\5.18.2 з п Names.csproj\obj\Debug\Names.pdb
