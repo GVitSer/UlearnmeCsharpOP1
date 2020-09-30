@@ -1,0 +1,6 @@
+D:\VI ASUP\VSprojects\umop6.2StrangersCipher\bin\Debug\umop6.2StrangersCipher.exe.config
+D:\VI ASUP\VSprojects\umop6.2StrangersCipher\bin\Debug\umop6.2StrangersCipher.exe
+D:\VI ASUP\VSprojects\umop6.2StrangersCipher\bin\Debug\umop6.2StrangersCipher.pdb
+D:\VI ASUP\VSprojects\umop6.2StrangersCipher\obj\Debug\umop6.2StrangersCipher.csprojAssemblyReference.cache
+D:\VI ASUP\VSprojects\umop6.2StrangersCipher\obj\Debug\umop6.2StrangersCipher.exe
+D:\VI ASUP\VSprojects\umop6.2StrangersCipher\obj\Debug\umop6.2StrangersCipher.pdb
