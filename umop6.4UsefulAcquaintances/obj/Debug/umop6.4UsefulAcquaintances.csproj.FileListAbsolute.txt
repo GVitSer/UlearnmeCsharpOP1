@@ -1,0 +1,7 @@
+H:\GVS Projects\UlearnmeCsharpOP1\umop6.4UsefulAcquaintances\bin\Debug\umop6.4UsefulAcquaintances.exe.config
+H:\GVS Projects\UlearnmeCsharpOP1\umop6.4UsefulAcquaintances\bin\Debug\umop6.4UsefulAcquaintances.exe
+H:\GVS Projects\UlearnmeCsharpOP1\umop6.4UsefulAcquaintances\bin\Debug\umop6.4UsefulAcquaintances.pdb
+H:\GVS Projects\UlearnmeCsharpOP1\umop6.4UsefulAcquaintances\obj\Debug\umop6.4UsefulAcquaintances.csprojAssemblyReference.cache
+H:\GVS Projects\UlearnmeCsharpOP1\umop6.4UsefulAcquaintances\obj\Debug\umop6.4UsefulAcquaintances.csproj.CoreCompileInputs.cache
+H:\GVS Projects\UlearnmeCsharpOP1\umop6.4UsefulAcquaintances\obj\Debug\umop6.4UsefulAcquaintances.exe
+H:\GVS Projects\UlearnmeCsharpOP1\umop6.4UsefulAcquaintances\obj\Debug\umop6.4UsefulAcquaintances.pdb
