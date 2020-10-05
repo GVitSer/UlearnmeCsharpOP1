@@ -1,0 +1,7 @@
+H:\GVS Projects\UlearnmeCsharpOP1\umop6.7BenfordsLaw\bin\Debug\umop6.7BenfordsLaw.exe.config
+H:\GVS Projects\UlearnmeCsharpOP1\umop6.7BenfordsLaw\bin\Debug\umop6.7BenfordsLaw.exe
+H:\GVS Projects\UlearnmeCsharpOP1\umop6.7BenfordsLaw\bin\Debug\umop6.7BenfordsLaw.pdb
+H:\GVS Projects\UlearnmeCsharpOP1\umop6.7BenfordsLaw\obj\Debug\umop6.7BenfordsLaw.csprojAssemblyReference.cache
+H:\GVS Projects\UlearnmeCsharpOP1\umop6.7BenfordsLaw\obj\Debug\umop6.7BenfordsLaw.csproj.CoreCompileInputs.cache
+H:\GVS Projects\UlearnmeCsharpOP1\umop6.7BenfordsLaw\obj\Debug\umop6.7BenfordsLaw.exe
+H:\GVS Projects\UlearnmeCsharpOP1\umop6.7BenfordsLaw\obj\Debug\umop6.7BenfordsLaw.pdb
