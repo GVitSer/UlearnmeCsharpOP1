@@ -1,0 +1,7 @@
+H:\GVS Projects\UlearnmeCsharpOP1\umop6.8SplitAndJoin\bin\Debug\umop6.8SplitAndJoin.exe.config
+H:\GVS Projects\UlearnmeCsharpOP1\umop6.8SplitAndJoin\bin\Debug\umop6.8SplitAndJoin.exe
+H:\GVS Projects\UlearnmeCsharpOP1\umop6.8SplitAndJoin\bin\Debug\umop6.8SplitAndJoin.pdb
+H:\GVS Projects\UlearnmeCsharpOP1\umop6.8SplitAndJoin\obj\Debug\umop6.8SplitAndJoin.csprojAssemblyReference.cache
+H:\GVS Projects\UlearnmeCsharpOP1\umop6.8SplitAndJoin\obj\Debug\umop6.8SplitAndJoin.csproj.CoreCompileInputs.cache
+H:\GVS Projects\UlearnmeCsharpOP1\umop6.8SplitAndJoin\obj\Debug\umop6.8SplitAndJoin.exe
+H:\GVS Projects\UlearnmeCsharpOP1\umop6.8SplitAndJoin\obj\Debug\umop6.8SplitAndJoin.pdb
