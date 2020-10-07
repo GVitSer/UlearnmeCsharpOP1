@@ -1,0 +1,7 @@
+H:\GVS Projects\UlearnmeCsharpOP1\umop6.10StrangerAgain\bin\Debug\umop6.10StrangerAgain.exe.config
+H:\GVS Projects\UlearnmeCsharpOP1\umop6.10StrangerAgain\bin\Debug\umop6.10StrangerAgain.exe
+H:\GVS Projects\UlearnmeCsharpOP1\umop6.10StrangerAgain\bin\Debug\umop6.10StrangerAgain.pdb
+H:\GVS Projects\UlearnmeCsharpOP1\umop6.10StrangerAgain\obj\Debug\umop6.10StrangerAgain.csprojAssemblyReference.cache
+H:\GVS Projects\UlearnmeCsharpOP1\umop6.10StrangerAgain\obj\Debug\umop6.10StrangerAgain.csproj.CoreCompileInputs.cache
+H:\GVS Projects\UlearnmeCsharpOP1\umop6.10StrangerAgain\obj\Debug\umop6.10StrangerAgain.exe
+H:\GVS Projects\UlearnmeCsharpOP1\umop6.10StrangerAgain\obj\Debug\umop6.10StrangerAgain.pdb
