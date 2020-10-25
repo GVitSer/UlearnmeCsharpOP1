@@ -1,0 +1,13 @@
+H:\GVS Projects\UlearnmeCsharpOP1\6.19-21.2 з п TextAnalysis.csproj\bin\Debug\HarryPotterText.txt
+H:\GVS Projects\UlearnmeCsharpOP1\6.19-21.2 з п TextAnalysis.csproj\bin\Debug\TextAnalysis.exe.config
+H:\GVS Projects\UlearnmeCsharpOP1\6.19-21.2 з п TextAnalysis.csproj\bin\Debug\TextAnalysis.exe
+H:\GVS Projects\UlearnmeCsharpOP1\6.19-21.2 з п TextAnalysis.csproj\bin\Debug\TextAnalysis.pdb
+H:\GVS Projects\UlearnmeCsharpOP1\6.19-21.2 з п TextAnalysis.csproj\bin\Debug\nunit.framework.dll
+H:\GVS Projects\UlearnmeCsharpOP1\6.19-21.2 з п TextAnalysis.csproj\bin\Debug\nunitlite.dll
+H:\GVS Projects\UlearnmeCsharpOP1\6.19-21.2 з п TextAnalysis.csproj\obj\Debug\TextAnalysis.csprojAssemblyReference.cache
+H:\GVS Projects\UlearnmeCsharpOP1\6.19-21.2 з п TextAnalysis.csproj\obj\Debug\TextAnalysis.Properties.Resources.resources
+H:\GVS Projects\UlearnmeCsharpOP1\6.19-21.2 з п TextAnalysis.csproj\obj\Debug\TextAnalysis.csproj.GenerateResource.cache
+H:\GVS Projects\UlearnmeCsharpOP1\6.19-21.2 з п TextAnalysis.csproj\obj\Debug\TextAnalysis.csproj.CoreCompileInputs.cache
+H:\GVS Projects\UlearnmeCsharpOP1\6.19-21.2 з п TextAnalysis.csproj\obj\Debug\TextAnalysis.csproj.CopyComplete
+H:\GVS Projects\UlearnmeCsharpOP1\6.19-21.2 з п TextAnalysis.csproj\obj\Debug\TextAnalysis.exe
+H:\GVS Projects\UlearnmeCsharpOP1\6.19-21.2 з п TextAnalysis.csproj\obj\Debug\TextAnalysis.pdb
