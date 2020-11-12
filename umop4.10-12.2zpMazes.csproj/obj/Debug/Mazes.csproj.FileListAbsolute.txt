@@ -1,0 +1,47 @@
+D:\VI ASUP\VSprojects\4.10.2 з Mazes.csproj\bin\Debug\mazes\diagonal3.txt
+D:\VI ASUP\VSprojects\4.10.2 з Mazes.csproj\bin\Debug\mazes\diagonal2.txt
+D:\VI ASUP\VSprojects\4.10.2 з Mazes.csproj\bin\Debug\mazes\diagonal1.txt
+D:\VI ASUP\VSprojects\4.10.2 з Mazes.csproj\bin\Debug\mazes\empty5.txt
+D:\VI ASUP\VSprojects\4.10.2 з Mazes.csproj\bin\Debug\mazes\empty4.txt
+D:\VI ASUP\VSprojects\4.10.2 з Mazes.csproj\bin\Debug\mazes\empty3.txt
+D:\VI ASUP\VSprojects\4.10.2 з Mazes.csproj\bin\Debug\mazes\empty2.txt
+D:\VI ASUP\VSprojects\4.10.2 з Mazes.csproj\bin\Debug\mazes\pyramid4.txt
+D:\VI ASUP\VSprojects\4.10.2 з Mazes.csproj\bin\Debug\mazes\pyramid3.txt
+D:\VI ASUP\VSprojects\4.10.2 з Mazes.csproj\bin\Debug\mazes\pyramid2.txt
+D:\VI ASUP\VSprojects\4.10.2 з Mazes.csproj\bin\Debug\mazes\pyramid1.txt
+D:\VI ASUP\VSprojects\4.10.2 з Mazes.csproj\bin\Debug\mazes\snake3.txt
+D:\VI ASUP\VSprojects\4.10.2 з Mazes.csproj\bin\Debug\mazes\snake2.txt
+D:\VI ASUP\VSprojects\4.10.2 з Mazes.csproj\bin\Debug\mazes\snake1.txt
+D:\VI ASUP\VSprojects\4.10.2 з Mazes.csproj\bin\Debug\mazes\empty1.txt
+D:\VI ASUP\VSprojects\4.10.2 з Mazes.csproj\bin\Debug\Mazes.exe.config
+D:\VI ASUP\VSprojects\4.10.2 з Mazes.csproj\bin\Debug\Mazes.exe
+D:\VI ASUP\VSprojects\4.10.2 з Mazes.csproj\bin\Debug\Mazes.pdb
+D:\VI ASUP\VSprojects\4.10.2 з Mazes.csproj\bin\Debug\TestingRoom.dll
+D:\VI ASUP\VSprojects\4.10.2 з Mazes.csproj\obj\Debug\Mazes.csprojAssemblyReference.cache
+D:\VI ASUP\VSprojects\4.10.2 з Mazes.csproj\obj\Debug\Mazes.csproj.CopyComplete
+D:\VI ASUP\VSprojects\4.10.2 з Mazes.csproj\obj\Debug\Mazes.exe
+D:\VI ASUP\VSprojects\4.10.2 з Mazes.csproj\obj\Debug\Mazes.pdb
+H:\GVS Projects\UlearnmeCsharpOP1\4.10.2 з п Mazes.csproj\bin\Debug\mazes\diagonal3.txt
+H:\GVS Projects\UlearnmeCsharpOP1\4.10.2 з п Mazes.csproj\bin\Debug\mazes\diagonal2.txt
+H:\GVS Projects\UlearnmeCsharpOP1\4.10.2 з п Mazes.csproj\bin\Debug\mazes\diagonal1.txt
+H:\GVS Projects\UlearnmeCsharpOP1\4.10.2 з п Mazes.csproj\bin\Debug\mazes\empty5.txt
+H:\GVS Projects\UlearnmeCsharpOP1\4.10.2 з п Mazes.csproj\bin\Debug\mazes\empty4.txt
+H:\GVS Projects\UlearnmeCsharpOP1\4.10.2 з п Mazes.csproj\bin\Debug\mazes\empty3.txt
+H:\GVS Projects\UlearnmeCsharpOP1\4.10.2 з п Mazes.csproj\bin\Debug\mazes\empty2.txt
+H:\GVS Projects\UlearnmeCsharpOP1\4.10.2 з п Mazes.csproj\bin\Debug\mazes\pyramid4.txt
+H:\GVS Projects\UlearnmeCsharpOP1\4.10.2 з п Mazes.csproj\bin\Debug\mazes\pyramid3.txt
+H:\GVS Projects\UlearnmeCsharpOP1\4.10.2 з п Mazes.csproj\bin\Debug\mazes\pyramid2.txt
+H:\GVS Projects\UlearnmeCsharpOP1\4.10.2 з п Mazes.csproj\bin\Debug\mazes\pyramid1.txt
+H:\GVS Projects\UlearnmeCsharpOP1\4.10.2 з п Mazes.csproj\bin\Debug\mazes\snake3.txt
+H:\GVS Projects\UlearnmeCsharpOP1\4.10.2 з п Mazes.csproj\bin\Debug\mazes\snake2.txt
+H:\GVS Projects\UlearnmeCsharpOP1\4.10.2 з п Mazes.csproj\bin\Debug\mazes\snake1.txt
+H:\GVS Projects\UlearnmeCsharpOP1\4.10.2 з п Mazes.csproj\bin\Debug\mazes\empty1.txt
+H:\GVS Projects\UlearnmeCsharpOP1\4.10.2 з п Mazes.csproj\bin\Debug\Mazes.exe.config
+H:\GVS Projects\UlearnmeCsharpOP1\4.10.2 з п Mazes.csproj\bin\Debug\Mazes.exe
+H:\GVS Projects\UlearnmeCsharpOP1\4.10.2 з п Mazes.csproj\bin\Debug\Mazes.pdb
+H:\GVS Projects\UlearnmeCsharpOP1\4.10.2 з п Mazes.csproj\bin\Debug\TestingRoom.dll
+H:\GVS Projects\UlearnmeCsharpOP1\4.10.2 з п Mazes.csproj\obj\Debug\Mazes.csprojAssemblyReference.cache
+H:\GVS Projects\UlearnmeCsharpOP1\4.10.2 з п Mazes.csproj\obj\Debug\Mazes.csproj.CoreCompileInputs.cache
+H:\GVS Projects\UlearnmeCsharpOP1\4.10.2 з п Mazes.csproj\obj\Debug\Mazes.csproj.CopyComplete
+H:\GVS Projects\UlearnmeCsharpOP1\4.10.2 з п Mazes.csproj\obj\Debug\Mazes.exe
+H:\GVS Projects\UlearnmeCsharpOP1\4.10.2 з п Mazes.csproj\obj\Debug\Mazes.pdb
