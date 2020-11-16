@@ -1,0 +1,7 @@
+D:\VI ASUP\VSprojects\3.12.2 з Pluralize.csproj\bin\Debug\rubles.txt
+D:\VI ASUP\VSprojects\3.12.2 з Pluralize.csproj\bin\Debug\Pluralize.exe.config
+D:\VI ASUP\VSprojects\3.12.2 з Pluralize.csproj\bin\Debug\Pluralize.exe
+D:\VI ASUP\VSprojects\3.12.2 з Pluralize.csproj\bin\Debug\Pluralize.pdb
+D:\VI ASUP\VSprojects\3.12.2 з Pluralize.csproj\obj\Debug\Pluralize.csprojAssemblyReference.cache
+D:\VI ASUP\VSprojects\3.12.2 з Pluralize.csproj\obj\Debug\Pluralize.exe
+D:\VI ASUP\VSprojects\3.12.2 з Pluralize.csproj\obj\Debug\Pluralize.pdb
