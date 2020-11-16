@@ -1,0 +1,6 @@
+D:\VI ASUP\VSprojects\4.13.2 з DragonFractal.csproj\bin\Debug\DragonFractal.exe.config
+D:\VI ASUP\VSprojects\4.13.2 з DragonFractal.csproj\bin\Debug\DragonFractal.exe
+D:\VI ASUP\VSprojects\4.13.2 з DragonFractal.csproj\bin\Debug\DragonFractal.pdb
+D:\VI ASUP\VSprojects\4.13.2 з DragonFractal.csproj\obj\Debug\DragonFractal.csprojAssemblyReference.cache
+D:\VI ASUP\VSprojects\4.13.2 з DragonFractal.csproj\obj\Debug\DragonFractal.exe
+D:\VI ASUP\VSprojects\4.13.2 з DragonFractal.csproj\obj\Debug\DragonFractal.pdb
