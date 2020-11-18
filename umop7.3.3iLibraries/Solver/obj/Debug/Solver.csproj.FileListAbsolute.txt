@@ -1,0 +1,6 @@
+H:\GVS Projects\UlearnmeCsharpOP1\Solver\bin\Debug\Solver.dll
+H:\GVS Projects\UlearnmeCsharpOP1\Solver\bin\Debug\Solver.pdb
+H:\GVS Projects\UlearnmeCsharpOP1\Solver\obj\Debug\Solver.csprojAssemblyReference.cache
+H:\GVS Projects\UlearnmeCsharpOP1\Solver\obj\Debug\Solver.csproj.CoreCompileInputs.cache
+H:\GVS Projects\UlearnmeCsharpOP1\Solver\obj\Debug\Solver.dll
+H:\GVS Projects\UlearnmeCsharpOP1\Solver\obj\Debug\Solver.pdb
