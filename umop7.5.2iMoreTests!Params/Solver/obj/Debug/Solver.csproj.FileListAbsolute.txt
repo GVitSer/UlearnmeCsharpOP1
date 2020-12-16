@@ -14,3 +14,9 @@ D:\VI ASUP\VSprojects\umop7.5iMoreTests!\Solver\bin\Debug\Solver.pdb
 D:\VI ASUP\VSprojects\umop7.5iMoreTests!\Solver\obj\Debug\Solver.csprojAssemblyReference.cache
 D:\VI ASUP\VSprojects\umop7.5iMoreTests!\Solver\obj\Debug\Solver.dll
 D:\VI ASUP\VSprojects\umop7.5iMoreTests!\Solver\obj\Debug\Solver.pdb
+D:\VI ASUP\VSprojects\umop7.5.2iMoreTests!Params\Solver\bin\Debug\Solver.dll
+D:\VI ASUP\VSprojects\umop7.5.2iMoreTests!Params\Solver\bin\Debug\Solver.pdb
+D:\VI ASUP\VSprojects\umop7.5.2iMoreTests!Params\Solver\obj\Debug\Solver.dll
+D:\VI ASUP\VSprojects\umop7.5.2iMoreTests!Params\Solver\obj\Debug\Solver.pdb
+D:\VI ASUP\VSprojects\umop7.5.2iMoreTests!Params\Solver\bin\Debug\Solver.dll.CodeAnalysisLog.xml
+D:\VI ASUP\VSprojects\umop7.5.2iMoreTests!Params\Solver\bin\Debug\Solver.dll.lastcodeanalysissucceeded

@@ -20,10 +20,15 @@ namespace Solver.Tests
 			TestEquation(1, -3, 2, 2, 1 );
 		}
 		
-		[TestMethod] // <= так нужно пометить метод, чтобы система тестирования поняла, что это тест.
+		[TestMethod]
 		public void NegativeDiscriminant()
 		{
 			TestEquation(1, 1, 1);
+		}
+		[TestMethod]
+		public void ZeroDiscriminant()
+		{
+			TestEquation(1, 2, 1, -1);
 		}
 	}
 }

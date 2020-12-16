@@ -16,3 +16,14 @@ D:\VI ASUP\VSprojects\umop7.5iMoreTests!\Equations\obj\Debug\Equations.csprojAss
 D:\VI ASUP\VSprojects\umop7.5iMoreTests!\Equations\obj\Debug\Equations.csproj.CopyComplete
 D:\VI ASUP\VSprojects\umop7.5iMoreTests!\Equations\obj\Debug\umop7.3.3iLibraries.exe
 D:\VI ASUP\VSprojects\umop7.5iMoreTests!\Equations\obj\Debug\umop7.3.3iLibraries.pdb
+D:\VI ASUP\VSprojects\umop7.5.2iMoreTests!Params\Equations\bin\Debug\umop7.3.3iLibraries.exe.config
+D:\VI ASUP\VSprojects\umop7.5.2iMoreTests!Params\Equations\bin\Debug\umop7.3.3iLibraries.exe
+D:\VI ASUP\VSprojects\umop7.5.2iMoreTests!Params\Equations\bin\Debug\umop7.3.3iLibraries.pdb
+D:\VI ASUP\VSprojects\umop7.5.2iMoreTests!Params\Equations\bin\Debug\umop7.3.3iLibraries.exe.CodeAnalysisLog.xml
+D:\VI ASUP\VSprojects\umop7.5.2iMoreTests!Params\Equations\bin\Debug\umop7.3.3iLibraries.exe.lastcodeanalysissucceeded
+D:\VI ASUP\VSprojects\umop7.5.2iMoreTests!Params\Equations\bin\Debug\Solver.dll
+D:\VI ASUP\VSprojects\umop7.5.2iMoreTests!Params\Equations\bin\Debug\Solver.pdb
+D:\VI ASUP\VSprojects\umop7.5.2iMoreTests!Params\Equations\obj\Debug\Equations.csprojAssemblyReference.cache
+D:\VI ASUP\VSprojects\umop7.5.2iMoreTests!Params\Equations\obj\Debug\Equations.csproj.CopyComplete
+D:\VI ASUP\VSprojects\umop7.5.2iMoreTests!Params\Equations\obj\Debug\umop7.3.3iLibraries.exe
+D:\VI ASUP\VSprojects\umop7.5.2iMoreTests!Params\Equations\obj\Debug\umop7.3.3iLibraries.pdb
