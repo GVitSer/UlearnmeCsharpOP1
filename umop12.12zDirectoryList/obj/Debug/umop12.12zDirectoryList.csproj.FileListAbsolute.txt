@@ -1,0 +1,7 @@
+H:\GVS Projects\UlearnmeCsharpOP1\umop12.12zDirectoryList\bin\Debug\umop12.12zDirectoryList.exe.config
+H:\GVS Projects\UlearnmeCsharpOP1\umop12.12zDirectoryList\bin\Debug\umop12.12zDirectoryList.exe
+H:\GVS Projects\UlearnmeCsharpOP1\umop12.12zDirectoryList\bin\Debug\umop12.12zDirectoryList.pdb
+H:\GVS Projects\UlearnmeCsharpOP1\umop12.12zDirectoryList\obj\Debug\umop12.12zDirectoryList.csprojAssemblyReference.cache
+H:\GVS Projects\UlearnmeCsharpOP1\umop12.12zDirectoryList\obj\Debug\umop12.12zDirectoryList.csproj.CoreCompileInputs.cache
+H:\GVS Projects\UlearnmeCsharpOP1\umop12.12zDirectoryList\obj\Debug\umop12.12zDirectoryList.exe
+H:\GVS Projects\UlearnmeCsharpOP1\umop12.12zDirectoryList\obj\Debug\umop12.12zDirectoryList.pdb
