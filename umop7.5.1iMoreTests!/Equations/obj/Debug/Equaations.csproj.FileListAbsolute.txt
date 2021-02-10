@@ -1,0 +1,10 @@
+H:\GVS Projects\UlearnmeCsharpOP1\umop7.3.3iLibraries\Equations\bin\Debug\umop7.3.3iLibraries.exe.config
+H:\GVS Projects\UlearnmeCsharpOP1\umop7.3.3iLibraries\Equations\bin\Debug\umop7.3.3iLibraries.exe
+H:\GVS Projects\UlearnmeCsharpOP1\umop7.3.3iLibraries\Equations\bin\Debug\umop7.3.3iLibraries.pdb
+H:\GVS Projects\UlearnmeCsharpOP1\umop7.3.3iLibraries\Equations\bin\Debug\Solver.dll
+H:\GVS Projects\UlearnmeCsharpOP1\umop7.3.3iLibraries\Equations\bin\Debug\Solver.pdb
+H:\GVS Projects\UlearnmeCsharpOP1\umop7.3.3iLibraries\Equations\obj\Debug\Equaations.csprojAssemblyReference.cache
+H:\GVS Projects\UlearnmeCsharpOP1\umop7.3.3iLibraries\Equations\obj\Debug\Equaations.csproj.CoreCompileInputs.cache
+H:\GVS Projects\UlearnmeCsharpOP1\umop7.3.3iLibraries\Equations\obj\Debug\Equaations.csproj.CopyComplete
+H:\GVS Projects\UlearnmeCsharpOP1\umop7.3.3iLibraries\Equations\obj\Debug\umop7.3.3iLibraries.exe
+H:\GVS Projects\UlearnmeCsharpOP1\umop7.3.3iLibraries\Equations\obj\Debug\umop7.3.3iLibraries.pdb

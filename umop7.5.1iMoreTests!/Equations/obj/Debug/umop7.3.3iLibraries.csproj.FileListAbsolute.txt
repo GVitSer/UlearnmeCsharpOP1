@@ -1,0 +1,10 @@
+H:\GVS Projects\UlearnmeCsharpOP1\umop7.3.3iLibraries\bin\Debug\umop7.3.3iLibraries.exe.config
+H:\GVS Projects\UlearnmeCsharpOP1\umop7.3.3iLibraries\bin\Debug\umop7.3.3iLibraries.exe
+H:\GVS Projects\UlearnmeCsharpOP1\umop7.3.3iLibraries\bin\Debug\umop7.3.3iLibraries.pdb
+H:\GVS Projects\UlearnmeCsharpOP1\umop7.3.3iLibraries\obj\Debug\umop7.3.3iLibraries.csprojAssemblyReference.cache
+H:\GVS Projects\UlearnmeCsharpOP1\umop7.3.3iLibraries\obj\Debug\umop7.3.3iLibraries.csproj.CoreCompileInputs.cache
+H:\GVS Projects\UlearnmeCsharpOP1\umop7.3.3iLibraries\obj\Debug\umop7.3.3iLibraries.exe
+H:\GVS Projects\UlearnmeCsharpOP1\umop7.3.3iLibraries\obj\Debug\umop7.3.3iLibraries.pdb
+H:\GVS Projects\UlearnmeCsharpOP1\umop7.3.3iLibraries\bin\Debug\Solver.dll
+H:\GVS Projects\UlearnmeCsharpOP1\umop7.3.3iLibraries\bin\Debug\Solver.pdb
+H:\GVS Projects\UlearnmeCsharpOP1\umop7.3.3iLibraries\obj\Debug\umop7.3.3iLibraries.csproj.CopyComplete

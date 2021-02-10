@@ -1,0 +1,9 @@
+D:\VI ASUP\VSprojects\umop7.8iFunctionalTesting\Equation\obj\Debug\umop7.8iFunctionalTesting.csprojAssemblyReference.cache
+D:\VI ASUP\VSprojects\umop7.8iFunctionalTesting\Equation\bin\Debug\umop7.8iFunctionalTesting.exe.config
+D:\VI ASUP\VSprojects\umop7.8iFunctionalTesting\Equation\bin\Debug\umop7.8iFunctionalTesting.exe
+D:\VI ASUP\VSprojects\umop7.8iFunctionalTesting\Equation\bin\Debug\umop7.8iFunctionalTesting.pdb
+D:\VI ASUP\VSprojects\umop7.8iFunctionalTesting\Equation\bin\Debug\Library.dll
+D:\VI ASUP\VSprojects\umop7.8iFunctionalTesting\Equation\bin\Debug\Library.pdb
+D:\VI ASUP\VSprojects\umop7.8iFunctionalTesting\Equation\obj\Debug\umop7.8iFunctionalTesting.csproj.CopyComplete
+D:\VI ASUP\VSprojects\umop7.8iFunctionalTesting\Equation\obj\Debug\umop7.8iFunctionalTesting.exe
+D:\VI ASUP\VSprojects\umop7.8iFunctionalTesting\Equation\obj\Debug\umop7.8iFunctionalTesting.pdb
