@@ -1,0 +1,7 @@
+H:\GVS Projects\UlearnmeCsharpOP1\umop12.14zRefactoringAStaticClass\bin\Debug\umop12.14zRefactoringAStaticClass.exe.config
+H:\GVS Projects\UlearnmeCsharpOP1\umop12.14zRefactoringAStaticClass\bin\Debug\umop12.14zRefactoringAStaticClass.exe
+H:\GVS Projects\UlearnmeCsharpOP1\umop12.14zRefactoringAStaticClass\bin\Debug\umop12.14zRefactoringAStaticClass.pdb
+H:\GVS Projects\UlearnmeCsharpOP1\umop12.14zRefactoringAStaticClass\obj\Debug\umop12.14zRefactoringAStaticClass.csprojAssemblyReference.cache
+H:\GVS Projects\UlearnmeCsharpOP1\umop12.14zRefactoringAStaticClass\obj\Debug\umop12.14zRefactoringAStaticClass.csproj.CoreCompileInputs.cache
+H:\GVS Projects\UlearnmeCsharpOP1\umop12.14zRefactoringAStaticClass\obj\Debug\umop12.14zRefactoringAStaticClass.exe
+H:\GVS Projects\UlearnmeCsharpOP1\umop12.14zRefactoringAStaticClass\obj\Debug\umop12.14zRefactoringAStaticClass.pdb
