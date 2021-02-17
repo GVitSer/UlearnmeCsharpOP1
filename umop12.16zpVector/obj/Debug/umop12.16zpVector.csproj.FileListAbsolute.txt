@@ -1,0 +1,6 @@
+H:\GVS Projects\UlearnmeCsharpOP1\umop12.16zpVector\bin\Debug\umop12.16zpVector.dll
+H:\GVS Projects\UlearnmeCsharpOP1\umop12.16zpVector\bin\Debug\umop12.16zpVector.pdb
+H:\GVS Projects\UlearnmeCsharpOP1\umop12.16zpVector\obj\Debug\umop12.16zpVector.csprojAssemblyReference.cache
+H:\GVS Projects\UlearnmeCsharpOP1\umop12.16zpVector\obj\Debug\umop12.16zpVector.csproj.CoreCompileInputs.cache
+H:\GVS Projects\UlearnmeCsharpOP1\umop12.16zpVector\obj\Debug\umop12.16zpVector.dll
+H:\GVS Projects\UlearnmeCsharpOP1\umop12.16zpVector\obj\Debug\umop12.16zpVector.pdb
