@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "umop12.16zpVector", "umop12.16zpVector.csproj", "{060E6A8B-0CA0-4C57-9D56-D70C9E3E4027}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VectorParam", "VectorParam\VectorParam.csproj", "{F534720E-2026-43BE-8F07-6207142D20CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{060E6A8B-0CA0-4C57-9D56-D70C9E3E4027}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{060E6A8B-0CA0-4C57-9D56-D70C9E3E4027}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{060E6A8B-0CA0-4C57-9D56-D70C9E3E4027}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{060E6A8B-0CA0-4C57-9D56-D70C9E3E4027}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F534720E-2026-43BE-8F07-6207142D20CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F534720E-2026-43BE-8F07-6207142D20CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F534720E-2026-43BE-8F07-6207142D20CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F534720E-2026-43BE-8F07-6207142D20CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDC762FE-AEE9-4B12-94FD-9D15704CE11B}
+	EndGlobalSection
+EndGlobal
