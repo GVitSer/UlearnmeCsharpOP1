@@ -1,0 +1,12 @@
+H:\GVS Projects\UlearnmeCsharpOP1\umop12.19zp256ShadesOfGray\GeometryPainting.csproj\bin\Debug\GeometryPainting.exe.config
+H:\GVS Projects\UlearnmeCsharpOP1\umop12.19zp256ShadesOfGray\GeometryPainting.csproj\bin\Debug\GeometryPainting.exe
+H:\GVS Projects\UlearnmeCsharpOP1\umop12.19zp256ShadesOfGray\GeometryPainting.csproj\bin\Debug\GeometryPainting.pdb
+H:\GVS Projects\UlearnmeCsharpOP1\umop12.19zp256ShadesOfGray\GeometryPainting.csproj\bin\Debug\umop12.16zpVector.dll
+H:\GVS Projects\UlearnmeCsharpOP1\umop12.19zp256ShadesOfGray\GeometryPainting.csproj\bin\Debug\umop12.16zpVector.pdb
+H:\GVS Projects\UlearnmeCsharpOP1\umop12.19zp256ShadesOfGray\GeometryPainting.csproj\obj\Debug\GeometryPainting.csprojAssemblyReference.cache
+H:\GVS Projects\UlearnmeCsharpOP1\umop12.19zp256ShadesOfGray\GeometryPainting.csproj\obj\Debug\GeometryPainting.Properties.Resources.resources
+H:\GVS Projects\UlearnmeCsharpOP1\umop12.19zp256ShadesOfGray\GeometryPainting.csproj\obj\Debug\GeometryPainting.csproj.GenerateResource.cache
+H:\GVS Projects\UlearnmeCsharpOP1\umop12.19zp256ShadesOfGray\GeometryPainting.csproj\obj\Debug\GeometryPainting.csproj.CoreCompileInputs.cache
+H:\GVS Projects\UlearnmeCsharpOP1\umop12.19zp256ShadesOfGray\GeometryPainting.csproj\obj\Debug\GeometryPainting.csproj.CopyComplete
+H:\GVS Projects\UlearnmeCsharpOP1\umop12.19zp256ShadesOfGray\GeometryPainting.csproj\obj\Debug\GeometryPainting.exe
+H:\GVS Projects\UlearnmeCsharpOP1\umop12.19zp256ShadesOfGray\GeometryPainting.csproj\obj\Debug\GeometryPainting.pdb
