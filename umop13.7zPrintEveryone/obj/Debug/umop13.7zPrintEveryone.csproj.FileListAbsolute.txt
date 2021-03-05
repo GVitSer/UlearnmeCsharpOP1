@@ -1,0 +1,7 @@
+H:\GVS Projects\UlearnmeCsharpOP1\umop13.7zPrintEveryone\bin\Debug\umop13.7zPrintEveryone.exe.config
+H:\GVS Projects\UlearnmeCsharpOP1\umop13.7zPrintEveryone\bin\Debug\umop13.7zPrintEveryone.exe
+H:\GVS Projects\UlearnmeCsharpOP1\umop13.7zPrintEveryone\bin\Debug\umop13.7zPrintEveryone.pdb
+H:\GVS Projects\UlearnmeCsharpOP1\umop13.7zPrintEveryone\obj\Debug\umop13.7zPrintEveryone.csprojAssemblyReference.cache
+H:\GVS Projects\UlearnmeCsharpOP1\umop13.7zPrintEveryone\obj\Debug\umop13.7zPrintEveryone.csproj.CoreCompileInputs.cache
+H:\GVS Projects\UlearnmeCsharpOP1\umop13.7zPrintEveryone\obj\Debug\umop13.7zPrintEveryone.exe
+H:\GVS Projects\UlearnmeCsharpOP1\umop13.7zPrintEveryone\obj\Debug\umop13.7zPrintEveryone.pdb
