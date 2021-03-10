@@ -1,0 +1,7 @@
+H:\GVS Projects\UlearnmeCsharpOP1\umop13.8zJoiningArrays\bin\Debug\umop13.8zJoiningArrays.exe.config
+H:\GVS Projects\UlearnmeCsharpOP1\umop13.8zJoiningArrays\bin\Debug\umop13.8zJoiningArrays.exe
+H:\GVS Projects\UlearnmeCsharpOP1\umop13.8zJoiningArrays\bin\Debug\umop13.8zJoiningArrays.pdb
+H:\GVS Projects\UlearnmeCsharpOP1\umop13.8zJoiningArrays\obj\Debug\umop13.8zJoiningArrays.csprojAssemblyReference.cache
+H:\GVS Projects\UlearnmeCsharpOP1\umop13.8zJoiningArrays\obj\Debug\umop13.8zJoiningArrays.csproj.CoreCompileInputs.cache
+H:\GVS Projects\UlearnmeCsharpOP1\umop13.8zJoiningArrays\obj\Debug\umop13.8zJoiningArrays.exe
+H:\GVS Projects\UlearnmeCsharpOP1\umop13.8zJoiningArrays\obj\Debug\umop13.8zJoiningArrays.pdb
