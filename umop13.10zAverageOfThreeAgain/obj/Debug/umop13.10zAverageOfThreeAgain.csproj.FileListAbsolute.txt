@@ -1,0 +1,7 @@
+H:\GVS Projects\UlearnmeCsharpOP1\umop13.10zAverageOfThreeAgain\bin\Debug\umop13.10zAverageOfThreeAgain.exe.config
+H:\GVS Projects\UlearnmeCsharpOP1\umop13.10zAverageOfThreeAgain\bin\Debug\umop13.10zAverageOfThreeAgain.exe
+H:\GVS Projects\UlearnmeCsharpOP1\umop13.10zAverageOfThreeAgain\bin\Debug\umop13.10zAverageOfThreeAgain.pdb
+H:\GVS Projects\UlearnmeCsharpOP1\umop13.10zAverageOfThreeAgain\obj\Debug\umop13.10zAverageOfThreeAgain.csprojAssemblyReference.cache
+H:\GVS Projects\UlearnmeCsharpOP1\umop13.10zAverageOfThreeAgain\obj\Debug\umop13.10zAverageOfThreeAgain.csproj.CoreCompileInputs.cache
+H:\GVS Projects\UlearnmeCsharpOP1\umop13.10zAverageOfThreeAgain\obj\Debug\umop13.10zAverageOfThreeAgain.exe
+H:\GVS Projects\UlearnmeCsharpOP1\umop13.10zAverageOfThreeAgain\obj\Debug\umop13.10zAverageOfThreeAgain.pdb
