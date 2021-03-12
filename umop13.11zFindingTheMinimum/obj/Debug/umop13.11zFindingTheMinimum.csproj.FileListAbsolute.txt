@@ -1,0 +1,7 @@
+H:\GVS Projects\UlearnmeCsharpOP1\umop13.11zFindingTheMinimum\bin\Debug\umop13.11zFindingTheMinimum.exe.config
+H:\GVS Projects\UlearnmeCsharpOP1\umop13.11zFindingTheMinimum\bin\Debug\umop13.11zFindingTheMinimum.exe
+H:\GVS Projects\UlearnmeCsharpOP1\umop13.11zFindingTheMinimum\bin\Debug\umop13.11zFindingTheMinimum.pdb
+H:\GVS Projects\UlearnmeCsharpOP1\umop13.11zFindingTheMinimum\obj\Debug\umop13.11zFindingTheMinimum.csprojAssemblyReference.cache
+H:\GVS Projects\UlearnmeCsharpOP1\umop13.11zFindingTheMinimum\obj\Debug\umop13.11zFindingTheMinimum.csproj.CoreCompileInputs.cache
+H:\GVS Projects\UlearnmeCsharpOP1\umop13.11zFindingTheMinimum\obj\Debug\umop13.11zFindingTheMinimum.exe
+H:\GVS Projects\UlearnmeCsharpOP1\umop13.11zFindingTheMinimum\obj\Debug\umop13.11zFindingTheMinimum.pdb
