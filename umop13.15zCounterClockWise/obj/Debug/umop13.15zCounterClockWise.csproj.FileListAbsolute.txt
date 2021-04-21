@@ -1,0 +1,7 @@
+H:\GVS Projects\UlearnmeCsharpOP1\umop13.15zCounterClockWise\bin\Debug\umop13.15zCounterClockWise.exe.config
+H:\GVS Projects\UlearnmeCsharpOP1\umop13.15zCounterClockWise\bin\Debug\umop13.15zCounterClockWise.exe
+H:\GVS Projects\UlearnmeCsharpOP1\umop13.15zCounterClockWise\bin\Debug\umop13.15zCounterClockWise.pdb
+H:\GVS Projects\UlearnmeCsharpOP1\umop13.15zCounterClockWise\obj\Debug\umop13.15zCounterClockWise.csprojAssemblyReference.cache
+H:\GVS Projects\UlearnmeCsharpOP1\umop13.15zCounterClockWise\obj\Debug\umop13.15zCounterClockWise.csproj.CoreCompileInputs.cache
+H:\GVS Projects\UlearnmeCsharpOP1\umop13.15zCounterClockWise\obj\Debug\umop13.15zCounterClockWise.exe
+H:\GVS Projects\UlearnmeCsharpOP1\umop13.15zCounterClockWise\obj\Debug\umop13.15zCounterClockWise.pdb
