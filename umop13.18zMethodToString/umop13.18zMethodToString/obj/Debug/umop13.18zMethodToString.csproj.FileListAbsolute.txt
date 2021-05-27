@@ -1,0 +1,7 @@
+H:\GVS Projects\UlearnmeCsharpOP1\umop13.18zMethodToString\umop13.18zMethodToString\bin\Debug\umop13.18zMethodToString.exe.config
+H:\GVS Projects\UlearnmeCsharpOP1\umop13.18zMethodToString\umop13.18zMethodToString\bin\Debug\umop13.18zMethodToString.exe
+H:\GVS Projects\UlearnmeCsharpOP1\umop13.18zMethodToString\umop13.18zMethodToString\bin\Debug\umop13.18zMethodToString.pdb
+H:\GVS Projects\UlearnmeCsharpOP1\umop13.18zMethodToString\umop13.18zMethodToString\obj\Debug\umop13.18zMethodToString.csprojAssemblyReference.cache
+H:\GVS Projects\UlearnmeCsharpOP1\umop13.18zMethodToString\umop13.18zMethodToString\obj\Debug\umop13.18zMethodToString.csproj.CoreCompileInputs.cache
+H:\GVS Projects\UlearnmeCsharpOP1\umop13.18zMethodToString\umop13.18zMethodToString\obj\Debug\umop13.18zMethodToString.exe
+H:\GVS Projects\UlearnmeCsharpOP1\umop13.18zMethodToString\umop13.18zMethodToString\obj\Debug\umop13.18zMethodToString.pdb
