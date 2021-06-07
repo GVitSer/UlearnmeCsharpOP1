@@ -1,0 +1,16 @@
+H:\GVS Projects\UlearnmeCsharpOP1\umop13.20.2zpTerrain&Digger.csproj\bin\Debug\Images\Digger.png
+H:\GVS Projects\UlearnmeCsharpOP1\umop13.20.2zpTerrain&Digger.csproj\bin\Debug\Images\Gold.png
+H:\GVS Projects\UlearnmeCsharpOP1\umop13.20.2zpTerrain&Digger.csproj\bin\Debug\Images\Monster.png
+H:\GVS Projects\UlearnmeCsharpOP1\umop13.20.2zpTerrain&Digger.csproj\bin\Debug\Images\Sack.png
+H:\GVS Projects\UlearnmeCsharpOP1\umop13.20.2zpTerrain&Digger.csproj\bin\Debug\Images\Terrain.png
+H:\GVS Projects\UlearnmeCsharpOP1\umop13.20.2zpTerrain&Digger.csproj\bin\Debug\11-digger.exe.config
+H:\GVS Projects\UlearnmeCsharpOP1\umop13.20.2zpTerrain&Digger.csproj\bin\Debug\11-digger.exe
+H:\GVS Projects\UlearnmeCsharpOP1\umop13.20.2zpTerrain&Digger.csproj\bin\Debug\11-digger.pdb
+H:\GVS Projects\UlearnmeCsharpOP1\umop13.20.2zpTerrain&Digger.csproj\bin\Debug\nunit.framework.dll
+H:\GVS Projects\UlearnmeCsharpOP1\umop13.20.2zpTerrain&Digger.csproj\obj\Debug\Digger.csprojAssemblyReference.cache
+H:\GVS Projects\UlearnmeCsharpOP1\umop13.20.2zpTerrain&Digger.csproj\obj\Debug\Digger.Properties.Resources.resources
+H:\GVS Projects\UlearnmeCsharpOP1\umop13.20.2zpTerrain&Digger.csproj\obj\Debug\Digger.csproj.GenerateResource.cache
+H:\GVS Projects\UlearnmeCsharpOP1\umop13.20.2zpTerrain&Digger.csproj\obj\Debug\Digger.csproj.CoreCompileInputs.cache
+H:\GVS Projects\UlearnmeCsharpOP1\umop13.20.2zpTerrain&Digger.csproj\obj\Debug\Digger.csproj.CopyComplete
+H:\GVS Projects\UlearnmeCsharpOP1\umop13.20.2zpTerrain&Digger.csproj\obj\Debug\11-digger.exe
+H:\GVS Projects\UlearnmeCsharpOP1\umop13.20.2zpTerrain&Digger.csproj\obj\Debug\11-digger.pdb
