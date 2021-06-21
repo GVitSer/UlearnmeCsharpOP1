@@ -1,0 +1,7 @@
+H:\GVS Projects\UlearnmeCsharpOP1\umop14.6zDontPostponeMistakes\bin\Debug\umop14.6zDontPostponeMistakes.exe.config
+H:\GVS Projects\UlearnmeCsharpOP1\umop14.6zDontPostponeMistakes\bin\Debug\umop14.6zDontPostponeMistakes.exe
+H:\GVS Projects\UlearnmeCsharpOP1\umop14.6zDontPostponeMistakes\bin\Debug\umop14.6zDontPostponeMistakes.pdb
+H:\GVS Projects\UlearnmeCsharpOP1\umop14.6zDontPostponeMistakes\obj\Debug\umop14.6zDontPostponeMistakes.csprojAssemblyReference.cache
+H:\GVS Projects\UlearnmeCsharpOP1\umop14.6zDontPostponeMistakes\obj\Debug\umop14.6zDontPostponeMistakes.csproj.CoreCompileInputs.cache
+H:\GVS Projects\UlearnmeCsharpOP1\umop14.6zDontPostponeMistakes\obj\Debug\umop14.6zDontPostponeMistakes.exe
+H:\GVS Projects\UlearnmeCsharpOP1\umop14.6zDontPostponeMistakes\obj\Debug\umop14.6zDontPostponeMistakes.pdb
