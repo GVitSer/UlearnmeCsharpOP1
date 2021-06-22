@@ -1,0 +1,7 @@
+H:\GVS Projects\UlearnmeCsharpOP1\umop14.10zVector\bin\Debug\umop14.10zVector.exe.config
+H:\GVS Projects\UlearnmeCsharpOP1\umop14.10zVector\bin\Debug\umop14.10zVector.exe
+H:\GVS Projects\UlearnmeCsharpOP1\umop14.10zVector\bin\Debug\umop14.10zVector.pdb
+H:\GVS Projects\UlearnmeCsharpOP1\umop14.10zVector\obj\Debug\umop14.10zVector.csprojAssemblyReference.cache
+H:\GVS Projects\UlearnmeCsharpOP1\umop14.10zVector\obj\Debug\umop14.10zVector.csproj.CoreCompileInputs.cache
+H:\GVS Projects\UlearnmeCsharpOP1\umop14.10zVector\obj\Debug\umop14.10zVector.exe
+H:\GVS Projects\UlearnmeCsharpOP1\umop14.10zVector\obj\Debug\umop14.10zVector.pdb
