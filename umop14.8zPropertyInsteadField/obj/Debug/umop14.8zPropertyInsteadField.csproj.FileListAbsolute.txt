@@ -1,0 +1,7 @@
+H:\GVS Projects\UlearnmeCsharpOP1\umop14.8zPropertyInsteadField\bin\Debug\umop14.8zPropertyInsteadField.exe.config
+H:\GVS Projects\UlearnmeCsharpOP1\umop14.8zPropertyInsteadField\bin\Debug\umop14.8zPropertyInsteadField.exe
+H:\GVS Projects\UlearnmeCsharpOP1\umop14.8zPropertyInsteadField\bin\Debug\umop14.8zPropertyInsteadField.pdb
+H:\GVS Projects\UlearnmeCsharpOP1\umop14.8zPropertyInsteadField\obj\Debug\umop14.8zPropertyInsteadField.csprojAssemblyReference.cache
+H:\GVS Projects\UlearnmeCsharpOP1\umop14.8zPropertyInsteadField\obj\Debug\umop14.8zPropertyInsteadField.csproj.CoreCompileInputs.cache
+H:\GVS Projects\UlearnmeCsharpOP1\umop14.8zPropertyInsteadField\obj\Debug\umop14.8zPropertyInsteadField.exe
+H:\GVS Projects\UlearnmeCsharpOP1\umop14.8zPropertyInsteadField\obj\Debug\umop14.8zPropertyInsteadField.pdb
