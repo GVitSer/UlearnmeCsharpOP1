@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "umop14.15zpReadonlyVector", "umop14.15zpReadonlyVector.csproj", "{03503BD3-A502-457A-A252-16A1CA0298BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03503BD3-A502-457A-A252-16A1CA0298BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03503BD3-A502-457A-A252-16A1CA0298BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03503BD3-A502-457A-A252-16A1CA0298BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03503BD3-A502-457A-A252-16A1CA0298BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0ECC31A-83A3-4BC3-A89D-6607826C7FB7}
+	EndGlobalSection
+EndGlobal

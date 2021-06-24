@@ -1,0 +1,7 @@
+H:\GVS Projects\UlearnmeCsharpOP1\umop14.15zpReadonlyVector\bin\Debug\umop14.15zpReadonlyVector.exe.config
+H:\GVS Projects\UlearnmeCsharpOP1\umop14.15zpReadonlyVector\bin\Debug\umop14.15zpReadonlyVector.exe
+H:\GVS Projects\UlearnmeCsharpOP1\umop14.15zpReadonlyVector\bin\Debug\umop14.15zpReadonlyVector.pdb
+H:\GVS Projects\UlearnmeCsharpOP1\umop14.15zpReadonlyVector\obj\Debug\umop14.15zpReadonlyVector.csprojAssemblyReference.cache
+H:\GVS Projects\UlearnmeCsharpOP1\umop14.15zpReadonlyVector\obj\Debug\umop14.15zpReadonlyVector.csproj.CoreCompileInputs.cache
+H:\GVS Projects\UlearnmeCsharpOP1\umop14.15zpReadonlyVector\obj\Debug\umop14.15zpReadonlyVector.exe
+H:\GVS Projects\UlearnmeCsharpOP1\umop14.15zpReadonlyVector\obj\Debug\umop14.15zpReadonlyVector.pdb
