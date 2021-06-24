@@ -1,0 +1,7 @@
+H:\GVS Projects\UlearnmeCsharpOP1\umop14.12zRatio\bin\Debug\umop14.12zRatio.exe.config
+H:\GVS Projects\UlearnmeCsharpOP1\umop14.12zRatio\bin\Debug\umop14.12zRatio.exe
+H:\GVS Projects\UlearnmeCsharpOP1\umop14.12zRatio\bin\Debug\umop14.12zRatio.pdb
+H:\GVS Projects\UlearnmeCsharpOP1\umop14.12zRatio\obj\Debug\umop14.12zRatio.csprojAssemblyReference.cache
+H:\GVS Projects\UlearnmeCsharpOP1\umop14.12zRatio\obj\Debug\umop14.12zRatio.csproj.CoreCompileInputs.cache
+H:\GVS Projects\UlearnmeCsharpOP1\umop14.12zRatio\obj\Debug\umop14.12zRatio.exe
+H:\GVS Projects\UlearnmeCsharpOP1\umop14.12zRatio\obj\Debug\umop14.12zRatio.pdb
