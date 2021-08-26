@@ -1,0 +1,7 @@
+H:\GVS Projects\UlearnmeCsharpOP1\umop15.7zUsingRef\bin\Debug\umop15.7zUsingRef.exe.config
+H:\GVS Projects\UlearnmeCsharpOP1\umop15.7zUsingRef\bin\Debug\umop15.7zUsingRef.exe
+H:\GVS Projects\UlearnmeCsharpOP1\umop15.7zUsingRef\bin\Debug\umop15.7zUsingRef.pdb
+H:\GVS Projects\UlearnmeCsharpOP1\umop15.7zUsingRef\obj\Debug\umop15.7zUsingRef.csprojAssemblyReference.cache
+H:\GVS Projects\UlearnmeCsharpOP1\umop15.7zUsingRef\obj\Debug\umop15.7zUsingRef.csproj.CoreCompileInputs.cache
+H:\GVS Projects\UlearnmeCsharpOP1\umop15.7zUsingRef\obj\Debug\umop15.7zUsingRef.exe
+H:\GVS Projects\UlearnmeCsharpOP1\umop15.7zUsingRef\obj\Debug\umop15.7zUsingRef.pdb
